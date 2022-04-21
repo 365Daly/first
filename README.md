@@ -1,2 +1,0 @@
-# first
-nextjs-blog
